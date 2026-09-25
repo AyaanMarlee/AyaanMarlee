@@ -14,10 +14,19 @@
 ## Current Projects
 - [Project name](link) — short description
 
-  ## Hobbies
+## Hobbies
   - Watching anime
   - Gaming
-  - Video Editing (Currently learning Davinci Resolve).
+  - Video Editing (currently learning Davinci Resolve).
+
+##Setup
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+user.name=AyzelAyaan
+user.email=ayzelxayaan@gmail.com
+core.editor="C:\Users\leona\AppData\Local\Programs\Microsoft VS Code\bin\code" --wait
 
 ## How to Reach Me
 - Email: ayzelxayaan@gmail.com
